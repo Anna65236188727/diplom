@@ -1,1 +1,1 @@
-# diplom
+# severni_igruhechnic
